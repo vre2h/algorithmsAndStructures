@@ -1,6 +1,6 @@
 # Algorithms And Structures
 
-[![Build Status](https://travis-ci.org/vre2h/algorithmsAndStructures.svg?branch=master)](https://travis-ci.org/vre2h/algorithmsAndStructures)
+[![Build Status](https://travis-ci.org/vre2h/backend-boilerplate.svg?branch=master)](https://travis-ci.org/vre2h/backend-boilerplate)
 
 
 Installation:
