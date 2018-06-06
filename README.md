@@ -1,1 +1,1 @@
-# server-side-js
+# algorithmsAndStructures
