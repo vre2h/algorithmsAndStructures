@@ -1,5 +1,7 @@
 # Algorithms And Structures
 
+[![Build Status](https://travis-ci.org/vre2h/algorithmsAndStructures.svg?branch=master)](https://travis-ci.org/vre2h/algorithmsAndStructures)
+
 
 Installation:
 `$ npm install --save algorithms-and-data-structures`
