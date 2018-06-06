@@ -1,5 +1,5 @@
 {
-  "name": "my-server-side-backend",
+  "name": "algs-and-structs",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -16,9 +16,9 @@
   },
   "keywords": [
     "js",
-    "boilerplate"
+    "algorithms"
   ],
-  "author": "Oganisyan Vrezh",
+  "author": "Oganisyan Vrezh <hovanisyan.vrezh@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vre2h/server-side-js/issues"
