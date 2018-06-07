@@ -8,6 +8,8 @@ Installation:
 
 List of Algorithms:
 - Binary Search
+- Selection Sort
+- Quick Sort
 
 Usage:
 ```javascript
