@@ -10,6 +10,7 @@ List of Algorithms:
 - Binary Search
 - Selection Sort
 - Quick Sort
+- Breadth-first Search
 
 Usage:
 ```javascript
