@@ -15,10 +15,8 @@ const bfSearch = (name) => {
 
   while (searchQue.length !== 0) {
     const person = searchQue.shift();
-    console.log(searchQue, person);
     if (!searched.includes(person)) {
       if (isName(person)) {
-        console.log(`${person} is a mango seller!`);
         return true;
       }
 
